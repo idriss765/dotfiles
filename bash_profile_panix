@@ -1,0 +1,11 @@
+PATH=/sbin:/usr/sbin:/bin:/usr/bin:/usr/local/bin:/usr/ucb:/usr/dt/bin:/etc:/opt/Omnibus/bin:/opt/sfw/bin:/home/emckinne:.
+SHELL=/bin/bash
+MANPATH=/usr/dt/man:/usr/man:/usr/openwin/share/man
+MAILPATH=/home/emckinne/nsmail
+EDITOR=/usr/bin/vi
+PS1="\u@\h $ "
+alias traceroute=/usr/sbin/traceroute
+export EDITOR
+export PATH
+export PS1
+
